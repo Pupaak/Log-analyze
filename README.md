@@ -1,6 +1,6 @@
 # Logs Analysis
 
-> Dustin D'Avignon
+> Neghah Yadasht
 
 ## About
 
